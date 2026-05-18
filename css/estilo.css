@@ -35,7 +35,7 @@ article {background-color:rgb(30, 42, 82);
         }
 
 nav ul {display: inline-block;  padding: 0; margin: 0;}/* Ítems del menú en una línea horizontal */ 
-nav li {list-style: none;  margin-right: 20px;display: inline-block; } /* display :inlie-block, hace el menus horizontal*/
+nav li {list-style: none;  margin-right: 20px;display: inline-block; }
 nav a:hover {  text-decoration: underline;}
 nav {
 	background-color:transparent;
@@ -54,7 +54,7 @@ nav a:hover {
 	color: #FFF;
 }
 nav a:active {
-	background-color: #F00;
+	background-color: rgb(37, 56, 54);
 	color: #FFF;
 }
 footer{ background-color: aliceblue;color: black;
@@ -67,14 +67,14 @@ img {
     display: inline-block;
   }
    h2{
-     background-color: blue;
+     background-color: rgb(11, 13, 34);
      color:aliceblue;
     
     text-align: center;
      margin: 0px; 
   }
   p{
-    background-color: blue;
+    background-color: rgb(19, 19, 112);
 
   }
   footer p{
